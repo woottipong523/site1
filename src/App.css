@@ -170,7 +170,7 @@ a {
 }
 
 .btn-blue {
-  background-color: #00C853;
+  background-color: #512da8;
   width: 150px;
   color: #fff;
   border-radius: 2px;
@@ -183,7 +183,7 @@ a {
 
 .bg-blue {
   color: #fff;
-  background-color: #00C853;
+  background-color: #512da8;
 }
 
 @media screen and (max-width: 991px) {
